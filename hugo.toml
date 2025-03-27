@@ -1,0 +1,8 @@
+baseURL = 'https://www.mindbike.net/'
+languageCode = 'en-us'
+title = 'Mindbike Learning Systems LLC'
+theme = 'hugo-theme-relearn'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/McShelby/hugo-theme-relearn'
