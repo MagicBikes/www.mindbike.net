@@ -1,6 +1,11 @@
 +++
-title = "MindBike is a new brainer"
+title = "The MindBike® - A new brainer"
 type = "home"
 +++
 
-This is your new home page.
+Several years ago I received a call from a special education teacher that changed my practice for the next 20 years. I am a physical therapist in the public school system and have been since the late 1980s.
+" Mr. Wray, something is happening with that student that you put on the stationary bike. If they pedal for 15 minutes they can motor plan to make a sandwich, if they don't pedal for 15 minutes they can't make the sandwich." That teenage student had a brain injury that was several years old and had NOT responded to standard physical therapy treatment. I had purchased a commercial stationary bike with reciprocal upper and lower extremity movement that mimicked a crawling movement in hopes that it would help this student's poor bilateral coordination and processing. After a few weeks of riding the bike, not only could they make a sandwich but this student could also perform a jumping jack. So both fine and gross motor coordination were improved from simply riding this bike long enough.
+
+Excited to help my younger students, I took the bike to an elementary school and tried to get a 5 year old on it. That is when I discovered as one representative of a prominent fitness equipment told me " WE DON'T MAKE STATIONARY BIKES FOR CHILDREN!. Why? 1) Their short legs and arms cannot reach the pedals and handles and 2} They get bored after about 2 minutes when they realize that no matter how fast they pedal they aren't going anywhere. So I improvised and took an adult stationary reciprocal bike to a machine shop and had it "cut down" to fit children with short legs and arms. I placed a DVD player on a rotating platform and played a favorite video. If they stopped pedaling I paused the video until they pedaled again repeating again and again until 10-15 minutes had passed. It worked! I began to see improvement in balance, bilateral coordination, and motor planning after riding the bike. This "frankenbike" ( see photo below) was the first prototype of many that have helped my students for the past 20 years. I have spent those years reading research and books on the subject. That research has compelled me to develop a commercial model we call the MindBike tm.
+
+Learn more: The MindBike- A New Brainer
